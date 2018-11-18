@@ -17,7 +17,7 @@ We're using `pre-commit`, it should take care of linting during commit.
 
 ~~~~bash
 pip install -r requirements_dev.txt
-pre-commit
+pre-commit install
 ~~~~
 
 ## Translating the project
