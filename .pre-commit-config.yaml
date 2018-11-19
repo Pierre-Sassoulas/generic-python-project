@@ -10,10 +10,10 @@ repos:
     -   id: trailing-whitespace
     -   id: end-of-file-fixer
     -   id: check-json
+    -   id: pretty-format-json
     -   id: check-merge-conflict
     -   id: check-xml
     -   id: check-yaml
-    -   id: end-of-file-fixer
 -   repo: https://github.com/asottile/seed-isort-config
     rev: v1.3.0
     hooks:
